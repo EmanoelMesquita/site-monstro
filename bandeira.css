@@ -1,7 +1,7 @@
 body{
     background-color: #52D9D8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1.125 rem;
+    font-size: 18px;
     text-align: center;
 }
 h1{
@@ -10,15 +10,8 @@ h1{
 }
 table{
     border-collapse: collapse;
-    width: 100 %;
+    width: 100%;
 }
 a{
     text-decoration: none;
 }
-.botao{
-    display: inline-block;
-    padding: 10 px 20 px:
-backgrond-color: green;
-text-decoration: none;
-border-radius: 5 px;
-font-size: 1 rem ;
